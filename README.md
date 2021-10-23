@@ -55,6 +55,9 @@ This menu allows you to choose a character to play as. Each character has differ
 
 And with that, you can start playing! Once in a run, the game doesn't tell the player much about what to do, what item types do what, secrets, and more. For tips and information on items, attributes and more, the <a href="tipsandtricks.html">Tips and Tricks page</a>. For information about mods, visit the <a href="Mods.html">Mods page</a>.
 
+  
+  ###ANNNNND PAGE WILL END HERE. I'M NOT DELETING IT YET SINCE IT MIGHT HAVE SOME USEFUL INFORMATI0N.
+  
 ```markdown
 Syntax highlighted code block
 
