@@ -15,6 +15,8 @@ Controls used for this tutorial will be the default set by the game.
 
 **Menus**
 
+![menu select](images/menuselect.jpg)
+
 Upon booting up the game, you'll find yourself looking at the title screen. Press the Spacebar or Enter key, and choose a save file on the next screen. After choosing a file, you'll see a list of menus to choose from. 
 
 - _New Run_ allows you to start a new run, a run being another playthrough of the game.
@@ -29,8 +31,29 @@ Upon booting up the game, you'll find yourself looking at the title screen. Pres
 
 - _Options_ allows you to configure various things such as graphics, controls, and more. 
 
+You can also press Tab to participate in Daily Runs, where you compete on a pre-set run for the highest score on a leaderboard.
 
+**Character Select and Game Modes**
 
+![character select](images/css.jpg)
+
+This menu allows you to choose a character to play as. Each character has different stats and some even hold items to start a run with. Isaac is unlocked by default, and the other characters can be unlocked by meeting the conditions specified while they are selected. There are 3 different gamemodes available immediately.
+
+- _Normal_ is the normal gamemode, the objective is to explore and complete each floor without losing all your health and eventually defeat the final boss of the run.
+
+- _Hard_ is similar to Normal mode, except there are various changes to make it more difficult. Clearing rooms results in fewer rewards for the player, enemies are more powerful, the floors are larger, and more. The player can also unlock more items and other things when playing on Hard compared to Normal.
+
+- _Greed_ tasks the player with defeating waves of enemies for money. The money then can be spent on items to help with later enemies and floors. This mode also has a unique final boss and unlocks.
+
+*Other UI Elements*
+
+- _Win Streak_ is the amount of times in a row you have finished a run without dying.
+
+- _Completion Marks_ are on the post-it note to the left of the character select menu. The post-it note will have symbols on it which represent which objectives they completed. Each character has their own Completion Marks, so the player must complete all the objectives with all characters if they wish to achieve 100% completion.
+
+- _Press Tab To Input A Seed_ is a menu that can be accessed after pressing Tab. Once inside the menu, strings of numbers and characters can be input to influence the generation of the next run. Many of these "seeds" prevent objectives from being counted and items from being unlocked. For a full list of seeds, visit [the wiki](https://bindingofisaacrebirth.fandom.com/wiki/Seeds).
+
+And with that, you can start playing! Once in a run, the game doesn't tell the player much about what to do, what item types do what, secrets, and more. For tips and information on items, attributes and more, the <a href="tipsandtricks.html">Tips and Tricks page</a>. For information about mods, visit the <a href="Mods.html">Mods page</a>.
 
 ```markdown
 Syntax highlighted code block
