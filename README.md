@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages Link to other page: <a href="Mods.html">Mods</a>
-You can use the [editor on GitHub](https://github.com/elliottim/elliottim.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Introduction 
+This website will cover the basics of The Binding of Isaac Rebirth Repentance, as well as how to install mods.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is The Binding of Isaac Rebirth Repentance?
 
-### Markdown
+The Binding of Isaac Rebirth Repentance is the latest expansion for The Binding of Isaac Rebirth, a top-down action rogue-like shooter that follows the main character Isaac's bizarre and disturbing adventure down his toychest. Most of the information on this website will show images and data from the Repentance expansion, however most information will still be releveant to the base-game and its other expansions.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -29,7 +29,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-![Cellar](images/cellar.jpg)
+![Cellar](images/cellar.jpg) <a href="Mods.html">Mods</a>
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elliottim/elliottim.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
