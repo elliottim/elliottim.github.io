@@ -45,7 +45,7 @@ This menu allows you to choose a character to play as. Each character has differ
 
 - _Greed_ tasks the player with defeating waves of enemies for money. The money then can be spent on items to help with later enemies and floors. This mode also has a unique final boss and unlocks.
 
-*Other UI Elements*
+**Other UI Elements**
 
 - _Win Streak_ is the amount of times in a row you have finished a run without dying.
 
