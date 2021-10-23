@@ -17,7 +17,7 @@ Controls used for this tutorial will be the default set by the game.
 
 ![menu select](images/menuselect.jpg)
 
-Upon booting up the game, you'll find yourself looking at the title screen. Press the Spacebar or Enter key, and choose a save file on the next screen. After choosing a file, you'll see a list of menus to choose from. 
+Upon booting up the game, you will find yourself looking at the title screen. Press the Spacebar or Enter key, and choose a save file on the next screen. After choosing a file, you will see a list of menus to choose from. 
 
 - _New Run_ allows you to start a new run, a run being another playthrough of the game.
 
@@ -53,10 +53,10 @@ This menu allows you to choose a character to play as. Each character has differ
 
 - _Press Tab To Input A Seed_ is a menu that can be accessed after pressing Tab. Once inside the menu, strings of numbers and characters can be input to influence the generation of the next run. Many of these "seeds" prevent objectives from being counted and items from being unlocked. For a full list of seeds, visit [the wiki](https://bindingofisaacrebirth.fandom.com/wiki/Seeds).
 
-And with that, you can start playing! Once in a run, the game doesn't tell the player much about what to do, what item types do what, secrets, and more. For tips and information on items, attributes and more, the <a href="tipsandtricks.html">Tips and Tricks page</a>. For information about mods, visit the <a href="Mods.html">Mods page</a>.
+And with that, you can start playing! Once in a run, the game does not tell the player much about what to do, what item types do what, secrets, and more. For tips and information on items, attributes and more, the <a href="tipsandtricks.html">Tips and Tricks page</a>. For information about mods, visit the <a href="Mods.html">Mods page</a>.
 
   
-  ###ANNNNND PAGE WILL END HERE. I'M NOT DELETING IT YET SINCE IT MIGHT HAVE SOME USEFUL INFORMATI0N.
+### ANNNNND PAGE WILL END HERE. I'M NOT DELETING IT YET SINCE IT MIGHT HAVE SOME USEFUL INFORMATI0N.
   
 ```markdown
 Syntax highlighted code block
