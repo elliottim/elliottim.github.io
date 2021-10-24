@@ -36,7 +36,7 @@ The UI is found surrounding the edges of the screen.
 
 - *Health* is located on the top left to the right of items, and can be made of many types of hearts.
 
-- *Attributes* are located on the left side of the screen in a list fashion. This is an option called the Found Hud added with the Afterbirth+ DLC.
+- *Attributes* are located on the left side of the screen in a list fashion. This is an option called the Found Hud added with the Afterbirth+ DLC. Attributes can also be found on the pause menu.
 
 - *Trinkets* are located on the bottom left.
 
