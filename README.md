@@ -37,7 +37,17 @@ You can also press Tab to participate in Daily Runs, where you compete on a pre-
 
 ![character select](images/css.jpg)
 
-This menu allows you to choose a character to play as. Each character has different stats and some even hold items to start a run with. Isaac is unlocked by default, and other characters can be unlocked by meeting the conditions specified while they are selected. There are 3 different gamemodes available immediately.
+This menu allows you to choose a character to play as. Each character has different stats and some even hold items to start a run with. 
+
+**Character Stats**
+
+- The _Heart Symbol_ is how many full hearts the character starts with.
+
+- The _Boot_ is an approxiamation of how fast a character is.
+
+- The _Knife_ is an approximation of how much damage a character deals.
+
+Isaac is unlocked by default, and other characters can be unlocked by meeting the conditions specified while they are selected. There are 3 different gamemodes available immediately.
 
 - _Normal_ is the normal gamemode, the objective is to explore and complete each floor without losing all your health and eventually defeat the final boss of the run.
 
