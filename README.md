@@ -5,7 +5,7 @@ This website will cover the basics of The Binding of Isaac: Repentance, as well 
 
 ## What is The Binding of Isaac: Repentance?
 
-The Binding of Isaac: Repentance is the latest expansion for The Binding of Isaac: Rebirth, a top-down action rogue-like shooter that follows the main character Isaac's bizarre and disturbing adventure down his toychest. Most of the information on this website will show images and data from the Repentance expansion, however most information will still be releveant to the base-game and its other expansions. The version used is the Steam version of the game for PC and Mac, [available here](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/).
+The Binding of Isaac: Repentance is the latest expansion for The Binding of Isaac: Rebirth, a top-down action rogue-like shooter that follows the main character Isaac's bizarre and disturbing adventure down his toychest. Much of the information on this website will show images and data from the Repentance expansion, however most information will still be releveant to the base-game and its other expansions. The version used is the Steam version of the game for PC and Mac, [available here](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/).
 
 ### Getting Started
 
