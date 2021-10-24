@@ -92,13 +92,13 @@ Devil Chance and Angel Chance are determined uniquely compared to other attribut
 
 ### Miscellaneous Tips
 
-- You can curve your tears and effect their range by moving while shooting. Try moving perpendicular to where you are shooting to hit the enemy hiding behind a rock.
+- You can curve your tears and effect their range by moving while shooting. Try moving perpendicular to where you are shooting to hit an enemy hiding behind a rock.
 
 - You can unlock items by giving Coins to the large machine in Shops. You can each take money back out by blowing up the machine with Bombs. 
 
 - Be careful not to hurt yourself with bombs or Items. 
 
-- *Secret Rooms* are rooms not shown on the map. Specific walls must be blown up by bombs for them to open. Each floor has 1 *Secret Room* and 1 *Super Secret Room*. In order for a Secret Room to generate, a room must not prevent the player from being able to access where they must blow up the wall. Secret Rooms are adjacent to at least 2 rooms, and Super Secret Rooms are only adjacent to 1 room.
+- *Secret Rooms* are rooms not shown on the map. Specific walls must be blown up by bombs for them to open. Each floor has 1 Secret Room and 1 Super Secret Room. In order for a Secret Room to generate, a room must not prevent the player from being able to access where they must blow up the wall. Secret Rooms are adjacent to at least 2 rooms, and Super Secret Rooms are only adjacent to 1 room.
 
 - *Rocks and Poop* can be used to make bridges over gaps. If there is a rock or poop adjacent to a hole, try blowing it up with a bomb to make a bridge. 
 
