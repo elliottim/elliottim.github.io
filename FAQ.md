@@ -34,4 +34,4 @@ of any new items you find in no time.
 
 You can contact me at elliottim@appstate.edu
 
-If you would like to contribute to this, please click the View on Github button at the top of each page, or click ![this link](https://github.com/elliottim/elliottim.github.io)
+If you would like to contribute to this, please click the View on Github button at the top of each page, or click [this link](https://github.com/elliottim/elliottim.github.io)
