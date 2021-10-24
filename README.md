@@ -23,7 +23,7 @@ Upon booting up the game, you will find yourself looking at the title screen. Pr
 
 - _Continue_ allows you to continue your last run if you quit before finishing or losing. It may be greyed out if there is no saved run.
 
-- _Challenges_ are pre-set runs where you start with specific items and character and have an objective. Completing these unlocks new items. Unlock more challenges by unlocking more items in runs.
+- _Challenges_ are pre-set runs where you start with specific items, character and have an objective. Completing Challenges unlocks new items. Unlock more Challenges by unlocking more items in runs.
 
 - _Mods_ allows you to tune the functionality of some mods, such as enabling or disabling them. This is only in the PC version of the game. 
 
@@ -41,19 +41,19 @@ This menu allows you to choose a character to play as. Each character has differ
 
 - _Normal_ is the normal gamemode, the objective is to explore and complete each floor without losing all your health and eventually defeat the final boss of the run.
 
-- _Hard_ is similar to Normal mode, except there are various changes to make it more difficult. Clearing rooms results in fewer rewards for the player, enemies are more powerful, the floors are larger, and more. The player can also unlock more items and other things when playing on Hard compared to Normal.
+- _Hard_ is similar to Normal mode, except there are various changes to make it more difficult. Clearing rooms results in fewer clear rewards,, enemies are more powerful, the floors are larger, and more. You can also unlock more items and other things when playing on Hard compared to Normal.
 
-- _Greed_ tasks the player with defeating waves of enemies for money. The money then can be spent on items to help with later enemies and floors. This mode also has a unique final boss and unlocks.
+- _Greed_ tasks you with defeating waves of enemies for money. The money then can be spent on items to help with later enemies and floors. This mode also has a unique final boss and unlocks.
 
 **Other UI Elements**
 
 - _Win Streak_ is the amount of times in a row you have finished a run without dying.
 
-- _Completion Marks_ are on the post-it note to the left of the character select menu. The post-it note will have symbols on it which represent which objectives they completed. Each character has their own Completion Marks, so the player must complete all the objectives with all characters if they wish to achieve 100% completion.
+- _Completion Marks_ are on the post-it note to the left of the character select menu. The post-it note will have symbols on it which represent which objectives they completed. Each character has their own Completion Marks, so you must complete all the objectives with all characters if you wish to achieve 100% completion.
 
 - _Press Tab To Input A Seed_ is a menu that can be accessed after pressing Tab. Once inside the menu, strings of numbers and characters can be input to influence the generation of the next run. Many of these "seeds" prevent objectives from being counted and items from being unlocked. For a full list of seeds, visit [the wiki](https://bindingofisaacrebirth.fandom.com/wiki/Seeds).
 
-And with that, you can start playing! Once in a run, the game does not tell the player much about what to do, what item types do what, secrets, and more. For tips and information on items, attributes and more, the <a href="tipsandtricks.html">Tips and Tricks page</a>. For information about mods, visit the <a href="Mods.html">Mods page</a>.
+And with that, you can start playing! Once in a run, the game does not tell you much about what to do, what item types do what, secrets, and more. For tips and information on items, attributes and more, the <a href="tipsandtricks.html">Tips and Tricks page</a>. For information about mods, visit the <a href="Mods.html">Mods page</a>.
 
   
 ### ANNNNND PAGE WILL END HERE. I'M NOT DELETING IT YET SINCE IT MIGHT HAVE SOME USEFUL INFORMATI0N.
