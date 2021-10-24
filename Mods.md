@@ -18,7 +18,7 @@ The Workshop page has many ways to find mods. Popular items are front and center
 
 ![mod page](images/modpagefull.png)
 
-The mod's page has a variety of information like trailers, screenshots, file size, creator and more. Scrolling down more, you can find more indepth information about the mod and a community comment section.
+The mod's page has a variety of information like trailers, screenshots, file size, creator and more. Scrolling down more, you can find more in depth information about the mod and a community comment section.
 
 **3. Make sure you have the required DLC.**
 
