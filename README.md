@@ -1,5 +1,4 @@
 <img src="images/logo.png" alt="logo" class="center">
-![logo](images/logo.png)
 
 ### Introduction 
 This website will cover the basics of The Binding of Isaac: Repentance, as well as how to install mods. Content warning: The Binding of Isaac: Rebirth is rated M by the ESRB for violence, blood and gore, and crude humor. 
