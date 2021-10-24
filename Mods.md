@@ -40,7 +40,7 @@ Start playing the game again. You will be greeted by a loading screen detailing 
 
 While not always necessary, you should make sure to enable mods you have downloaded. Enter a save file and choose the Mod menu.
 
-![mod menu](images/modmenu.png)
+![mod menu](images/modmenu.jpg)
 
 You will see a list of the mods you have downloaded. For the sake of demonstration, more than one mod has been downloaded. Selecting a mod enables or disables it. Darker text, like "1.!!~External Item Descriptions" means the mod is enabled. Lighter text, like "2.'Enhanced Boss Bars" and "3.Planetarium Chance" means the mods are disabled. Pressing Tab will enable or disable all mods at once. 
 
