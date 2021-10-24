@@ -1,9 +1,3 @@
----
-layout: page
-title: Download
-permalink: /download/
----
-
 ![logo](images/logo.png)
 
 ### Introduction 
