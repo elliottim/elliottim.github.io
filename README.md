@@ -51,7 +51,7 @@ Isaac is unlocked by default, and other characters can be unlocked by meeting th
 
 - _Normal_ is the normal gamemode, the objective is to explore and complete each floor without losing all your health and eventually defeat the final boss of the run.
 
-- _Hard_ is similar to Normal mode, except there are various changes to make it more difficult. Clearing rooms results in fewer clear rewards,, enemies are more powerful, the floors are larger, and more. You can also unlock more items and other things when playing on Hard compared to Normal.
+- _Hard_ is similar to Normal mode, except there are various changes to make it more difficult. Clearing rooms results in fewer clear rewards, enemies are more powerful, the floors are larger, and more. You can also unlock more items and other things when playing on Hard compared to Normal.
 
 - _Greed_ tasks you with defeating waves of enemies for money. The money then can be spent on items to help with later enemies and floors. This mode also has a unique final boss and unlocks.
 
