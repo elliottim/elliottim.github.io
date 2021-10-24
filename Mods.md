@@ -14,7 +14,7 @@ There are many ways to do this, but the simplest way is to use the link on the g
 
 **2. Find a mod you want to install.**
 
-The Workshop page has many ways to find mods. Popular items are front and center, you can browse by tag, or you could use the search bar to search for specific terms. For the sake of this demonstation, let's download a mod called [AB+ | Rep] External item descriptions. This mod adds detailed description to every item in the game. It's very useful since you don't need to memorize the effects of hundreds of items.
+The Workshop page has many ways to find mods. Popular items are front and center, you can browse by tag, or you could use the search bar to search for specific terms. For the sake of this demonstation, let's download a mod called "[AB+ | Rep] External item descriptions" by Wolfsauge. This mod adds detailed description to every item in the game. It's very useful since you don't need to memorize the effects of hundreds of items. You can locate the mod using the search bar. You can also follow this link to the mod and complete the following steps via a web browser. Just remember to log into your Steam account on your browser.
 
 ![mod page](images/modpagefull.png)
 
@@ -22,7 +22,7 @@ The mod's page has a variety of information like trailers, screenshots, file siz
 
 **3. Make sure you have the required DLC.**
 
-![mod page](images/modpagefull.png)
+![DLC warning](images/DLCmenu.png)
 
 Each mod has a section telling you which DLC you need in order to use the mod. A purple warning tab was show above the Subscribe button, and to the right of that will tell the you required DLC. Assuming you have all DLC, just like the guide, you should not have to worry about this. 
 
@@ -30,7 +30,19 @@ Each mod has a section telling you which DLC you need in order to use the mod. A
 
 Clicking the green Subscribe button, seen in the example image from step 3, adds the mod to your mod collection and begins downloading the mod. You can check you Downloads on Steam if you want to confirm the download started. 
 
-**5. Boot the 
+**5. Boot the game.**
+
+Start playing the game again. You will be greeted by a loading screen detailing the status of the mod you just installed. After downloading and installing, the game's menus will start as normal and you can access the game.
+
+**6. Enable mods.**
+
+While not always necessary, you should make sure to enable mods you have downloaded. Enter a save file and choose the Mod menu.
+
+![mod menu](images/modmenu.png)
+
+You will see a list of the mods you have downloaded. For the sake of demonstration, more than one mod has been downloaded. Selecting a mod enables or disables it. Darker text, like "1.!!~External Item Descriptions" means the mod is enabled. Lighter text, like "2.'Enhanced Boss Bars" and "3.Planetarium Chance" means the mods are disabled. Pressing Tab will enable or disable all mods at once. 
+
+And you're finished installing a mod! You can go back to the Steam Workshop and download more, or start playing.
 
 ```markdown
 Syntax highlighted code block
