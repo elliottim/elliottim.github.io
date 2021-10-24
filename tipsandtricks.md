@@ -1,10 +1,56 @@
-## Welcome to GitHub Pages THIS IS THE TIPS PAGE
+## Tips & Tricks
 
-You can use the [editor on GitHub](https://github.com/elliottim/elliottim.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Controls
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Controls used for this tutorial will be the default mouse and keyboard controls.
 
-### Markdown
+- *WASD keys* are used for movement.
+
+- *Arrow keys* are used to shoot in the direction held.
+
+- *E* is used to place bombs.
+
+- *Spacebar* is used to active an Item.
+
+- *Q* is used to activate and consume pills and cards.
+
+- *L CTRL* is held to drop trinkets and pickups.
+
+- *Tab* enlarges or shrinks the map.
+
+- *F* toggles fullscreen mode.
+
+- *R* is held to restart runs.
+
+- *M* is used to mute the game.
+
+- *ESC or P* are used to pause the game.
+
+### HUD Elements
+
+![UI](images/demonstration.jpg)
+
+The UI is found surrounding the edges of the screen.
+
+- *Items* are located on the top left. The greenbar represents how much charge the item has. A full green bar means the item can be used.
+
+- *Health* is located on the top left to the right of items, and can be made of many types of hearts.
+
+- *Attributes* are located on the left side of the screen in a list fashion. This is an option called the Found Hud added with the Afterbirth+ DLC.
+
+- *Trinkets* are located on the bottom left.
+
+- *The Map* is located on the top right.
+
+- *Passive Items* you have collected are located on the right below the map.
+
+- *Cards and Pills* are located on the bottom right. 
+
+### Attributes
+
+In the image above, Attributes top to bottom are:
+
+- 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
