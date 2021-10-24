@@ -14,7 +14,9 @@ There are many ways to do this, but the simplest way is to use the link on the g
 
 **2. Find a mod you want to install.**
 
-The Workshop page has many ways to find mods. Popular items are front and center, you can browse by tag, or you could use the search bar to search for specific terms. For the sake of this demonstation, let's download a mod called "External item descriptions" by Wolfsauge. This mod adds detailed description to every item in the game. It's very useful since you don't need to memorize the effects of hundreds of items. You can locate the mod using the search bar and searching ```[AB+ | Rep] External item descriptions```. You can also follow this link to the mod and complete the following steps via a web browser. Just remember to log into your Steam account on your browser.
+The Workshop page has many ways to find mods. Popular items are front and center, you can browse by tag, or you could use the search bar to search for specific terms. For the sake of this demonstation, let's download a mod called "External item descriptions" by Wolfsauge. This mod adds detailed description to every item in the game. It's very useful since you don't need to memorize the effects of hundreds of items.
+
+You can locate the mod using the search bar and searching ```[AB+ | Rep] External item descriptions```. You can also follow this [link](https://steamcommunity.com/sharedfiles/filedetails/?id=836319872) to the mod and complete the following steps via a web browser. Just remember to log into your Steam account on your browser.
 
 ![mod page](images/modpagefull.png)
 
