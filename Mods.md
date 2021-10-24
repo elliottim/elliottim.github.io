@@ -8,7 +8,7 @@ Mods are distributed through the [Steam Workshop](https://steamcommunity.com/wor
 
 **1. Open the Steam Workshop.**
 
-![workshop link](images/librarypagearrow.jpg)
+![workshop link](images/librarypagearrow.png)
 
 There are many ways to do this, but the simplest way is to use the link on the game's Library page. From your Library on Steam, the page for The Binding of Isaac: Rebirth has a link to its Steam Workshop page. Click on the Workshop button. It is located beneath and to the right of the play button. 
 
@@ -16,13 +16,13 @@ There are many ways to do this, but the simplest way is to use the link on the g
 
 The Workshop page has many ways to find mods. Popular items are front and center, you can browse by tag, or you could use the search bar to search for specific terms. For the sake of this demonstation, let's download a mod called [AB+ | Rep] External item descriptions. This mod adds detailed description to every item in the game. It's very useful since you don't need to memorize the effects of hundreds of items.
 
-![mod page](images/modpagefull.jpg)
+![mod page](images/modpagefull.png)
 
 The mod's page has a variety of information like trailers, screenshots, file size, creator and more. Scrolling down more, you can find more indepth information about the mod and a community comment section.
 
 **3. Make sure you have the required DLC.**
 
-![mod page](images/modpagefull.jpg)
+![mod page](images/modpagefull.png)
 
 Each mod has a section telling you which DLC you need in order to use the mod. A purple warning tab was show above the Subscribe button, and to the right of that will tell the you required DLC. Assuming you have all DLC, just like the guide, you should not have to worry about this. 
 
