@@ -50,7 +50,25 @@ The UI is found surrounding the edges of the screen.
 
 In the image above, Attributes top to bottom are:
 
-- 
+- *Speed*: Displays the movement speed.
+
+- *Tears*: Displays speed of shooting tears.
+
+- *Damage*: Displays the damage done per tear.
+
+- *Ramge*: Displays how far tears will travel.
+
+- *Shot speed*: Displays how fast tears travel.
+
+- *Luck*: Displays luck used in certain calculations.
+
+- *Devil Chance*: Displays the chance for a Devil Room to appear at the end of a floor.
+
+- *Angel Chance*: Displays the chance for an Angel Room to appear at the end of a floor.
+
+Using pickups and obtaining Passive Items can improve attributes permanently, while using Items and holding Trinkets improve attributes temporarily.
+
+Devil Chance and Angel Chance are determined uniquely compared to other attributes. Devil Chance is determined per-floor and it is lowered by taking damage to your red health. Angel Chance is determined after you do not enter Devil Rooms on a floor. Angel Chance also lowers if you take damage to your read health. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
