@@ -36,6 +36,8 @@ The UI is found surrounding the edges of the screen.
 
 - *Health* is located on the top left to the right of items, and can be made of many types of hearts.
 
+- *Coins, Bombs, and Keys* are located to the left beneath your Item. Coins can be used to buy things from the shop or give to Beggars, Bombs are used to blow up objects and enemies, and Keys are used to open locked chests and doors.
+
 - *Attributes* are located on the left side of the screen in a list fashion. This is an option called the Found Hud added with the Afterbirth+ DLC. Attributes can also be found on the pause menu.
 
 - *Trinkets* are located on the bottom left.
@@ -44,7 +46,7 @@ The UI is found surrounding the edges of the screen.
 
 - *Passive Items* you have collected are located on the right below the map.
 
-- *Cards and Pills* are located on the bottom right. 
+- *Cards and Pills* are located on the bottom right. Cards and Pills are a special type of pickups which can be carried and used when you like. 
 
 ### Attributes
 
@@ -70,32 +72,34 @@ Using pickups and obtaining Passive Items can improve attributes permanently, wh
 
 Devil Chance and Angel Chance are determined uniquely compared to other attributes. Devil Chance is determined per-floor and it is lowered by taking damage to your red health. Angel Chance is determined after you do not enter Devil Rooms on a floor. Angel Chance also lowers if you take damage to your read health. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Pickups
 
-```markdown
-Syntax highlighted code block
+- ![redheart](images/RedHeart.png) ![soulheart](images/SoulHeart.png) *Hearts* refill your health or add an extra layer of protection which cannot be replenished.
 
-# Header 1
-## Header 2
-### Header 3
+- ![coin](images/coin.png) *Coins* add to your money count. There are many types of coins worth different amounts. 
 
-- Bulleted
-- List
+- ![bomb](images/bomb.png) *Bombs* add to your bomb count. They can be used to blow things up and hurt enemies.
 
-1. Numbered
-2. List
+- ![key](images/key.png) *Keys* add to your key count. They are used to open locked chests and doors.
 
-**Bold** and _Italic_ and `Code` text
+- ![battery](images/battery.png) *Batteries* are used to refill your Item charge bar instead of charging the bar manually. There are many sizes of batteries.
 
-[Link](url) and ![Image](src)
-```
+- ![pill](images/pill.png) *Pills* are consumable pickups which are held. They provide a random effect, sometimes good, sometimes bad.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- ![card](images/card.png) *Cards* are consumable pickups which are held. They activate a wide range of temporary effects.
 
-### Jekyll Themes
+- ![bag](images/bag.png) *Bags* spawn many other pickups when collected.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elliottim/elliottim.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Miscellaneous Tips
 
-### Support or Contact
+- You can curve your tears and effect their range by moving while shooting. Try moving perpendicular to where you are shooting to hit the enemy hiding behind a rock.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- You can unlock items by giving Coins to the large machine in Shops. You can each take money back out by blowing up the machine with Bombs. 
+
+- Be careful not to hurt yourself with bombs or Items. 
+
+- *Secret Rooms* are rooms not shown on the map. Specific walls must be blown up by bombs for them to open. Each floor has 1 *Secret Room* and 1 *Super Secret Room*. In order for a Secret Room to generate, a room must not prevent the player from being able to access where they must blow up the wall. Secret Rooms are adjacent to at least 2 rooms, and Super Secret Rooms are only adjacent to 1 room.
+
+- *Rocks and Poop* can be used to make bridges over gaps. If there is a rock or poop adjacent to a hole, try blowing it up with a bomb to make a bridge. 
+
+- *Tinted Rocks* are special rocks which have an X mark on them and are slightly off color. While hard to spot, these rocks give rewards for being blown up.
