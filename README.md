@@ -1,11 +1,11 @@
 ![logo](images/logo.png)
 
 ### Introduction 
-This website will cover the basics of The Binding of Isaac Repentance, as well as how to install mods. Content warning: The Binding of Isaac Rebirth is rated M by the ESRB for violence, blood and gore, and crude humor. 
+This website will cover the basics of The Binding of Isaac: Repentance, as well as how to install mods. Content warning: The Binding of Isaac: Rebirth is rated M by the ESRB for violence, blood and gore, and crude humor. 
 
-## What is The Binding of Isaac Rebirth Repentance?
+## What is The Binding of Isaac: Repentance?
 
-The Binding of Isaac Repentance is the latest expansion for The Binding of Isaac Rebirth, a top-down action rogue-like shooter that follows the main character Isaac's bizarre and disturbing adventure down his toychest. Most of the information on this website will show images and data from the Repentance expansion, however most information will still be releveant to the base-game and its other expansions. The version used is the Steam version of the game for PC and Mac, [available here](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/).
+The Binding of Isaac: Repentance is the latest expansion for The Binding of Isaac: Rebirth, a top-down action rogue-like shooter that follows the main character Isaac's bizarre and disturbing adventure down his toychest. Most of the information on this website will show images and data from the Repentance expansion, however most information will still be releveant to the base-game and its other expansions. The version used is the Steam version of the game for PC and Mac, [available here](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/).
 
 ### Getting Started
 
@@ -37,7 +37,7 @@ You can also press Tab to participate in Daily Runs, where you compete on a pre-
 
 ![character select](images/css.jpg)
 
-This menu allows you to choose a character to play as. Each character has different stats and some even hold items to start a run with. Isaac is unlocked by default, and the other characters can be unlocked by meeting the conditions specified while they are selected. There are 3 different gamemodes available immediately.
+This menu allows you to choose a character to play as. Each character has different stats and some even hold items to start a run with. Isaac is unlocked by default, and other characters can be unlocked by meeting the conditions specified while they are selected. There are 3 different gamemodes available immediately.
 
 - _Normal_ is the normal gamemode, the objective is to explore and complete each floor without losing all your health and eventually defeat the final boss of the run.
 
