@@ -45,31 +45,3 @@ While not always necessary, you should make sure to enable mods you have downloa
 You will see a list of the mods you have downloaded. For the sake of demonstration, more than one mod has been downloaded. Selecting a mod enables or disables it. Darker text, like "1.!!~External Item Descriptions" means the mod is enabled. Lighter text, like "2.'Enhanced Boss Bars" and "3.Planetarium Chance" means the mods are disabled. Pressing Tab will enable or disable all mods at once. 
 
 And you're finished installing a mod! You can go back to the Steam Workshop and download more, or start playing.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bullete
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elliottim/elliottim.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
